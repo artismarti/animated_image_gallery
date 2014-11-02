@@ -7,4 +7,4 @@ This is me practising CSS, JS & HTML5 by doing the projects in this Udemy course
 And having fun. :)
 
 ### Other Projects From This Course:
-- (HTML 5 Blog)[https://github.com/artismarti/html5_blog]
+- [HTML 5 Blog](https://github.com/artismarti/html5_blog)
